@@ -1,10 +1,10 @@
 #Push-Up android SDK Guide
 
-##Step 1 : Interworking adPush_(Media name)_(Version information).jar
+##Step 1 : Interworking adPush_for_china_0.0.7.jar
 
-### Add the adPush_(Media name)_(Version information).jar to Libs folder of the project.
+### Add the adPush_for_china_0.0.7.jar to Libs folder of the project.
   
-    Copy the file adPush_(Media name)_(Version information).jar to the Libs folder of the project.
+    Copy the file adPush_for_china_0.0.7.jar to the Libs folder of the project.
 
  
  
